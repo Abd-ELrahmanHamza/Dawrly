@@ -137,4 +137,4 @@ Run main function in RunGUI class
 
 ## License <a name = "license"></a>
 
-> This software is licensed under MIT License, See [License](https://github.com/ZeyadTarekk/Dawrly/blob/main/LICENSE) for more information ©ZeyadTarekk.
+> This software is licensed under MIT License, See [License](https://github.com/Abd-ELrahmanHamza/Dawrly/blob/main/LICENSE) for more information ©Abd-ELrahmanHamza.
