@@ -7,12 +7,12 @@
 
 <div align="center">
 
-[![GitHub contributors](https://img.shields.io/github/contributors/ZeyadTarekk/Dawrly)](https://github.com/ZeyadTarekk/Dawrly/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/ZeyadTarekk/Dawrly)](https://github.com/ZeyadTarekk/Dawrly/issues)
-[![GitHub license](https://img.shields.io/github/license/ZeyadTarekk/Dawrly)](https://github.com/ZeyadTarekk/Dawrly/blob/master/LICENSE)
-[![GitHub forks](https://img.shields.io/github/forks/ZeyadTarekk/Dawrly)](https://github.com/ZeyadTarekk/Dawrly/network)
-[![GitHub stars](https://img.shields.io/github/stars/ZeyadTarekk/Dawrly)](https://github.com/ZeyadTarekk/Dawrly/stargazers)
-[![GitHub Language](https://img.shields.io/github/languages/top/ZeyadTarekk/Dawrly)](https://img.shields.io/github/languages/count/ZeyadTarekk/Dawrly)
+[![GitHub contributors](https://img.shields.io/github/contributors/Abd-ELrahmanHamza/Dawrly)](https://github.com/Abd-ELrahmanHamza/Dawrly/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/Abd-ELrahmanHamza/Dawrly)](https://github.com/Abd-ELrahmanHamza/Dawrly/issues)
+[![GitHub license](https://img.shields.io/github/license/Abd-ELrahmanHamza/Dawrly)](https://github.com/Abd-ELrahmanHamza/Dawrly/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/Abd-ELrahmanHamza/Dawrly)](https://github.com/Abd-ELrahmanHamza/Dawrly/network)
+[![GitHub stars](https://img.shields.io/github/stars/Abd-ELrahmanHamza/Dawrly)](https://github.com/Abd-ELrahmanHamza/Dawrly/stargazers)
+[![GitHub Language](https://img.shields.io/github/languages/top/Abd-ELrahmanHamza/Dawrly)](https://img.shields.io/github/languages/count/Abd-ELrahmanHamza/Dawrly)
 
 </div>
 
