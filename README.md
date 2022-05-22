@@ -53,7 +53,7 @@
 1. **_Clone the repository_**
 
 ```sh
-$ git clone https://github.com/ZeyadTarekk/Dawrly.git
+$ git clone https://github.com/Abd-ELrahmanHamza/Dawrly.git
 ```
 
 2. **_Right click on the folder and open it with the IDE_**
